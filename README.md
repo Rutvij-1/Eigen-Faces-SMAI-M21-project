@@ -2,8 +2,8 @@
 
 ## Team Info
 
-**Team Number**: 11
-**Team Name**: 21 din mein CG double
+**Team Number**: 11<br>
+**Team Name**: 21 din mein CG double<br>
 **Team**:
 - [Tushar Choudhary (2019111020)](https://github.com/tusharc31)
 - [Suyash Vardhan Mathur (2019114006)](https://github.com/MSurfer20)
@@ -14,7 +14,7 @@
 
 ## TA Info
 
-**TA**: [Shanthika Naik](https://github.com/Shanthika)
+**TA**: [Shanthika Naik](https://github.com/Shanthika)<br>
 **TA email**: shanthika.naik@research.iiit.ac.in
 
 ---
