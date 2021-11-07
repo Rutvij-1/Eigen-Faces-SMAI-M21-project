@@ -5,7 +5,7 @@
 **Team Number**: 11<br>
 **Team Name**: 21 din mein CG double<br>
 **Team**:
-- [Tushar Choudhary (2019111020)](https://github.com/tusharc31)
+- [Tushar Choudhary (2019111019)](https://github.com/tusharc31)
 - [Suyash Vardhan Mathur (2019114006)](https://github.com/MSurfer20)
 - [Tejas Chaudhari (2019111013)](https://github.com/tejas-1111)
 - [Rutvij Menavlikar (2019111032)](https://github.com/Rutvij-1)
