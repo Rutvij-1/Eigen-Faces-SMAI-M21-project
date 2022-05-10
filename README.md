@@ -1,4 +1,4 @@
-# Eigen-Faces-SMAI-M21-project
+# EigenFace Detection
 
 ## Team Info
 
